@@ -11,7 +11,7 @@
 //  that has the maximum length.
 // please help her to determine the length of the longest contiguous arithmetic subarray.
 
-// -------------------SOLUTION--------------------------------------------------------------
+// -------------------SOLUTION---------------------------------------------------------------
 #include<iostream>
 using namespace std;
 int main()
