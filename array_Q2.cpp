@@ -1,5 +1,5 @@
 // given an array a[] of size n .
-// output sum of each subarray of the given array.
+// output sum of  each subarray of the given array.
 #include<iostream>
 using namespace std;
 int main()
